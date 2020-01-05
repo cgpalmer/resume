@@ -91,7 +91,7 @@ header {
 }
 
 .logo {
-    background-image: url("assets/images/propic.jpg");
+    background-image: url("../images/propic.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
